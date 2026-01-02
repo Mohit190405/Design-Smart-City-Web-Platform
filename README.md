@@ -1,8 +1,7 @@
 
   # Design Smart City Web Platform
 
-  This is a code bundle for Design Smart City Web Platform. The original project is available at https://www.figma.com/design/awZRNPALcExVHAPVAUvMXo/Design-Smart-City-Web-Platform.
-
+  DEMO LINK : https://grass-excel-93318487.figma.site/
   ## Running the code
 
   Run `npm i` to install the dependencies.
